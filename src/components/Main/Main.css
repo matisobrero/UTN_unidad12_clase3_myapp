@@ -1,0 +1,46 @@
+.principal {
+    min-height: 85vh;
+    background-color: F5F7F8;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgba(190, 190, 190, 0.766));
+}
+
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: rgb(46, 46, 37);
+    text-align: center;
+}
+
+.container {
+    justify-content: center;
+    
+}
+
+.card {
+      margin:5vh, 0, 2vh;
+      
+      align-self: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      transition: box-shadow 0.3s ease-in-out;
+        
+}
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+
+.imagen {
+    
+    width: 400px;
+    height: 400px;
+    align-self: center;
+}
+
+.btn {
+    width: 25%;
+    align-self: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}

@@ -1,0 +1,32 @@
+footer {
+    font-size: 15px;
+    background-color: rgb(73, 94, 87);
+    text-align: center;
+    padding: 1px 0;
+    position: static;
+    width: 100%;
+    color: #f3f0f0;
+    margin-top: auto;
+    justify-content: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social-link {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+  }
+  
+  .social-link:hover {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .container2{
+    justify-content: center;
+    display: block;
+  }
