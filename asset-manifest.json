@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/css/main.9eaa04e0.css",
+    "main.js": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/js/main.4a49f6f3.js",
+    "static/js/787.1937f22b.chunk.js": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/js/787.1937f22b.chunk.js",
+    "static/media/lenovo.jpg": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/media/lenovo.41441a90070f8986cf9b.jpg",
+    "index.html": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/index.html",
+    "main.9eaa04e0.css.map": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/css/main.9eaa04e0.css.map",
+    "main.4a49f6f3.js.map": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/js/main.4a49f6f3.js.map",
+    "787.1937f22b.chunk.js.map": "//matisobrero.github.io/UTN_unidad12_clase3_myapp/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eaa04e0.css",
+    "static/js/main.4a49f6f3.js"
+  ]
+}
